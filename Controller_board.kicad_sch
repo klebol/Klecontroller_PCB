@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 79650e32-6fba-4eaa-902b-d1154ea8c394)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 38.1 34.29) (size 55.118 44.958) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 53e88a96-4a15-4c13-a571-16207dc2e806)
+    (property "Sheetname" "18650 Power Supply" (at 38.1 33.5784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power_supply_18650.kicad_sch" (at 38.1 79.8326 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Controller_board"
+        (path "/79650e32-6fba-4eaa-902b-d1154ea8c394" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
