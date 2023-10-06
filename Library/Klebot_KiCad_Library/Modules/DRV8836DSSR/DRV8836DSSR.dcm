@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8836DSSR
+D 1.5A Low Voltage Stepper or Single/Dual Brushed DC Motor Driver (PWM or PH/EN Ctrl)
+K
+F http://www.ti.com/lit/gpn/drv8836
+$ENDCMP
+#
+#End Doc Library

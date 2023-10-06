@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS54228D
+D Texas Instruments TPS54228D, Step Down DC-DC Converter, 10mA, Adjustable, 0.76  7 V, 8-Pin SOIC
+K
+F http://www.ti.com/lit/gpn/TPS54228
+$ENDCMP
+#
+#End Doc Library
